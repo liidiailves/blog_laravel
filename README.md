@@ -1,9 +1,5 @@
-SEE ON 16. episood
+SEE ON 30. episood
 
-SECTION 3 Blade lõpp
+SECTION 4 Working with Database lõpp
 
-käivitamiseks:
-
-composer install
-
-php artisan serve
+andmebaasi loomine mysqlis ja käivitamine ei õnnestunud, kirjutasin ainult koodi edasi...
