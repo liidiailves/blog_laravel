@@ -36,11 +36,22 @@ public $slug;
             ))
             ->sortByDesc('date');
         });
-        
+
     }
-    
-    public static function find ($slug) 
+
+    public static function find ($slug)
     {
         return static::all()->firstWhere('slug', $slug);
+    }
+
+    public static function findOrFail ($slug)
+    {
+        $post = static::find($slug);
+
+        if(! $post){
+            throw new ModelNotFoundException();
+        }
+
+        return $post;
     }
 }

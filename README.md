@@ -1,6 +1,6 @@
-SEE ON 13. episood
+SEE ON 16. episood
 
-SECTION 2 The Basics lõpp
+SECTION 3 Blade lõpp
 
 käivitamiseks:
 
