@@ -1,5 +1,6 @@
-SEE ON 30. episood
+SEE ON 31. episood
 
-SECTION 4 Working with Database lõpp
+SECTION 5 Integrate the Design algus
 
-andmebaasi loomine mysqlis ja käivitamine ei õnnestunud, kirjutasin ainult koodi edasi...
+PS
+andmebaasi loomine section 4-s ei õnnestunud, kirjutasin ainult koodi edasi...
