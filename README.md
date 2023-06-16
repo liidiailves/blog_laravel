@@ -1,6 +1,6 @@
-SEE ON 43. episood
+SEE ON 44. episood
 
-SECTION 7 Filtering
+SECTION 8 Pagination
 
 PS
 andmebaasi loomine section 4-s ei õnnestunud, kirjutasin ainult koodi edasi...
