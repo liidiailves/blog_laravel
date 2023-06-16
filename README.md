@@ -1,6 +1,6 @@
-SEE ON 38. episood
+SEE ON 43. episood
 
-SECTION 6 Search
+SECTION 7 Filtering
 
 PS
 andmebaasi loomine section 4-s ei õnnestunud, kirjutasin ainult koodi edasi...
